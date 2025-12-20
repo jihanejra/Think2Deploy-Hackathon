@@ -18,6 +18,12 @@ dans le terminal : cd evaluations - Copie
 
 streamlit run main.py
 
+Pour accéder à l’interface de dashboard, utilisez les identifiants suivants :
+
+Nom d’utilisateur : user.cdd
+
+Mot de passe : 123
+
 
 
 
