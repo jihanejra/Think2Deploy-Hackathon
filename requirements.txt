@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+scipy
+nltk
+reportlab
+matplotlib
+seaborn
+statsmodels
+python-decouple
+scikit-learn
+bertopic 
+sentence-transformers
